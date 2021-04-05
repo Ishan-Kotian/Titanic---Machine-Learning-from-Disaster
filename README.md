@@ -18,3 +18,4 @@ PassengerId,Survived
 Etc.
 
 Public Score :0.77511
+Kaggle:https://www.kaggle.com/lykin22/titanic-logistic-regression-and-random-forest
