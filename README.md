@@ -1,5 +1,5 @@
 # Titanic-Logistic Regression and Random Forest Classifier
-Competition:https://www.kaggle.com/c/titanic
+Competition & dataset:https://www.kaggle.com/c/titanic
 
 Goal:
 It is your job to predict if a passenger survived the sinking of the Titanic or not.
@@ -19,6 +19,6 @@ PassengerId,Survived
 894,0
 Etc.
 
-Public Score :0.77511
 
+Kaggle:https://www.kaggle.com/lykin22/titanic-kneighborsclassifier-top21
 Kaggle:https://www.kaggle.com/lykin22/titanic-logistic-regression-and-random-forest
