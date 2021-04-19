@@ -20,5 +20,5 @@ PassengerId,Survived
 Etc.
 
 
-Kaggle:https://www.kaggle.com/lykin22/titanic-kneighborsclassifier-top21
-Kaggle:https://www.kaggle.com/lykin22/titanic-logistic-regression-and-random-forest
+K-NN:https://www.kaggle.com/lykin22/titanic-kneighborsclassifier-top21
+Logistic Regression & Random Forest:https://www.kaggle.com/lykin22/titanic-logistic-regression-and-random-forest
